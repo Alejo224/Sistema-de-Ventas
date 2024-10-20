@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1728614839 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\main.cpp
+	<iostream>
+	"Menu.h"
+	"Cliente.h"
+	"Empleado.h"
+	"Inventario.h"
+	"Factura.h"
+	"MenuFactura.h"
+	"Producto.h"
+
+1727730637 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\menu.h
+	<vector>
+	<iostream>
+
+1728500605 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\persona.h
+	<iostream>
+	"Menu.h"
+
+1728500845 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1729389755 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\cliente.cpp
+	"Cliente.h"
+	"Persona.h"
+	"Menu.h"
+	<iostream>
+
+1728501644 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\cliente.h
+	"Persona.h"
+	"Menu.h"
+	<vector>
+
+1729386802 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1729393918 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\empleado.cpp
+	"Empleado.h"
+	<iostream>
+
+1728500759 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\empleado.h
+	<vector>
+	"Menu.h"
+	"Persona.h"
+
+1729386519 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\inventario.cpp
+	"Inventario.h"
+	"Producto.h"
+	<iostream>
+
+1728612229 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\inventario.h
+	<vector>
+	"Producto.h"
+	"Menu.h"
+
+1728755121 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\producto.cpp
+	"Producto.h"
+	<iostream>
+
+1728755324 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\producto.h
+	<iostream>
+
+1729394601 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\factura.cpp
+	"Factura.h"
+	<iostream>
+	<ctime>
+	<vector>
+
+1729394403 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\factura.h
+	<iostream>
+	<vector>
+	"Cliente.h"
+	"Empleado.h"
+	"Producto.h"
+	"Inventario.h"
+
+1728609395 c:\users\usuario\universidad\programacion\c++poo\sistemaventas\include\menufactura.h
+	<vector>
+	"Factura.h"
+
+1729393169 source:c:\users\usuario\universidad\programacion\c++poo\sistemaventas\src\menufactura.cpp
+	"MenuFactura.h"
+	"Factura.h"
+	<iostream>
+	"Cliente.h"
+	"Inventario.h"
+	"Producto.h"
+
